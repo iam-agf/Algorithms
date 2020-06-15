@@ -1,5 +1,10 @@
 from dataclasses import dataclass
 
+'''
+The main idea of the algorithm is to hash each substring with the same size that
+has pattern and check if both have the same value. If it finds it, it ends.
+'''
+
 @dataclass
 class algorithm():
 
