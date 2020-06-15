@@ -6,6 +6,8 @@ class algorithm():
     @staticmethod
     def RabinKarp(pattern,string):
         '''
+        Complexity time O(n)
+        
         The function will return the starting index where the string matches
         and the final index where it finishes. It won't detect lower or upper
         cases.
