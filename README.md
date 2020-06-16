@@ -5,4 +5,4 @@ under the hashtag #100DaysOfAlgorithms. I will be adding them in the list at the
 
 ## Actual added algorithms.
 1. [Rabin-Karp algorithm](https://en.wikipedia.org/wiki/Rabin%E2%80%93Karp_algorithm)
- 
+2. [Knuth-Morris-Pratt algorithm](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm)
