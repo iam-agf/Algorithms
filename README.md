@@ -8,3 +8,4 @@ under the hashtag #100DaysOfAlgorithms. I will be adding them in the list at the
 2. [Knuth-Morris-Pratt algorithm](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm)
 3. [Longest common subsequence](https://en.wikipedia.org/wiki/Longest_common_subsequence_problem)
 4. [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm)
+5. [Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
