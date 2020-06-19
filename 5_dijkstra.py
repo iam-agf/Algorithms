@@ -14,6 +14,30 @@ graph = {
 }
 
 def dijkstra(graph,start,end):
+    '''
+    The algorithm needs to preset:
+    - A dictionary to save the updated distances between the possible path and the
+    starting node
+    - A dictionary to save the last updated parent of each node to backtrack the
+    final path when the algorithm finisheds
+    - A dictionary to know which nodes are still unvisited.
+    
+    After the preset, the algorithm runs this way:
+
+    1) Find the node with the shortest distance
+    2) Update the paths from this node to its possible sons and refresh the
+    distance and parents dictionary.
+    3) Delete such node from the unvisited nodes
+
+    Finally just backtrack in the parents dictionary to get the final path.
+    Here are two possible endings:
+    + If the node wasn't connected, the algorithm will end thanks to the unvisited
+      dictionary and this will be noticed because the node will have infinite
+      distance
+    + Else you will have a finite distance and that will mean the parents 
+      dictionary can give you the path.
+    '''
+
     # Data required
     distances=defaultdict(lambda: inf)
     distances[start]=0
