@@ -3,6 +3,12 @@ from math import inf
 
 @dataclass
 class algorithm():
+    '''
+    The idea is to recursively get the minimum number and then add it to the 
+    sorted elements. You won't need to sort this selected number in the sorted
+    list because in that part of the list everything is already minimum compared
+    with the last chosen element.
+    '''
 
     @staticmethod
     def selection_sort(l):
@@ -18,4 +24,4 @@ class algorithm():
 
 L=[1,5,3,0,2,9,4,7,6,8]
 print("Original:",L)
-print(algorithm.selection_sort(L))
+print("Result:  ",algorithm.selection_sort(L))
