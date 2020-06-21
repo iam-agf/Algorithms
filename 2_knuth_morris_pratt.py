@@ -50,8 +50,8 @@ class algorithm():
     def KnuthMorrisPratt(string1,pattern):
         '''
         In this case, changing the return in the second if of the while loop and
-        adding a redefining of the k variable, we can get the rest of matches 
-        the string1 has with the pattern.
+        adding a redefining of the k variable in the KnuthMorrisPratt_match1 
+        code, we can get the rest of matches the string1 has with the pattern.
         '''
 
         n,m=len(string1),len(pattern) 
