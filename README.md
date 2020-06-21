@@ -11,3 +11,4 @@ under the hashtag #100DaysOfAlgorithms. I will be adding them in the list at the
 5. [Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 6. [Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort)
 7. [Selection sort](https://en.wikipedia.org/wiki/Selection_sort)
+8. [Insertion sort](https://en.wikipedia.org/wiki/Insertion_sort)
