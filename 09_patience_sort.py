@@ -6,6 +6,13 @@ class algorithm():
 
     @staticmethod
     def patienceSort(l):
+        '''
+        Simulation of the Patience Game. This process is useful for the Longest 
+        Increasing Sequence (LIS) algorithm, since from the number of stacks you
+        can get the length of the LIS. To generate this sequence, you can use a
+        double pointer to backtrack it.
+        '''
+
         solitaire_stacks=[]
         for i in l:
             inserted=False
