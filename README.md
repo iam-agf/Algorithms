@@ -14,3 +14,4 @@ under the hashtag #100DaysOfAlgorithms. I will be adding them in the list at the
 8. [Insertion sort](https://en.wikipedia.org/wiki/Insertion_sort)
 9. [Patience sorting](https://en.wikipedia.org/wiki/Patience_sorting)
 10. [Quicksort](https://en.wikipedia.org/wiki/Quicksort)
+11. [Union-Find (Disjoint-set)](https://en.wikipedia.org/wiki/Disjoint-set_data_structure)
