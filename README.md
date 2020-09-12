@@ -1,8 +1,9 @@
-# 100_days_of_algorithms
+# Algorithms
 
-This repository will be the list of algorithms I will mention in my [Twitter account](https://twitter.com/antonio_g_f)
-under the hashtag #100DaysOfAlgorithms. I will be adding them in the list at the same day I tweet them (or ASAP).
-
+  A list of algorithms I wrote in order to learn about them. If they need any explanation in the code implementation, it will be added.
+  This list can be stuck when I don't have time to implement new ones, but anyone who wants to add any algorithm is welcome.
+  All the implementations here will be in Python3.
+  
 ## Actual added algorithms.
 1. [Rabin-Karp algorithm](https://en.wikipedia.org/wiki/Rabin%E2%80%93Karp_algorithm)
 2. [Knuth-Morris-Pratt algorithm](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm)
@@ -16,3 +17,4 @@ under the hashtag #100DaysOfAlgorithms. I will be adding them in the list at the
 10. [Quicksort](https://en.wikipedia.org/wiki/Quicksort)
 11. [Union-Find (Disjoint-set)](https://en.wikipedia.org/wiki/Disjoint-set_data_structure)
 12. [Counting sort](https://en.wikipedia.org/wiki/Counting_sort)[Method implemented](https://www.programiz.com/dsa/counting-sort)
+
