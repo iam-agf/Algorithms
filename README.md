@@ -1,6 +1,6 @@
-# Algorithms
+# Algorithms and Data Structures
 
-  A list of algorithms I wrote in order to learn about them. If they need any explanation in the code implementation, it will be added.
+  A list of algorithms and data structures I wrote in order to learn about them. If they need any explanation in the code implementation, it will be added.
   This list can be stuck when I don't have time to implement new ones, but anyone who wants to add any algorithm is welcome.
   All the implementations here will be in Python3.
   
@@ -18,3 +18,5 @@
 11. [Union-Find (Disjoint-set)](https://en.wikipedia.org/wiki/Disjoint-set_data_structure)
 12. [Counting sort](https://en.wikipedia.org/wiki/Counting_sort)[Method implemented](https://www.programiz.com/dsa/counting-sort)
 
+## Actual added data structures.
+1. [Trie](https://en.wikipedia.org/wiki/Trie)
